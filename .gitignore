@@ -1,0 +1,11 @@
+BinTree*
+Testing
+data.txt
+libtree.a
+Makefile
+CMakeCache.txt
+.vscode
+.idea
+cmake-build-debug
+CMakeFiles
+cmake_install.cmake
