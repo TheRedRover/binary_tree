@@ -1,9 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 from numpy import *
@@ -19,4 +13,3 @@ print("Макисмальная высота", data.max())
 print("Медиана", np.median(data))
 print("Среднее значение", np.average(data))
 plt.show()
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
